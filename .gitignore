@@ -3,4 +3,4 @@ logs
 MNIST_data
 notebook/.ipynb_checkpoints
 notebook/MNIST_data
-
+__pycache__
